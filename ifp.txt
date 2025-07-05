@@ -1,0 +1,34 @@
+01. Entrada:
+Arquivo: JogoDaVelha.py  
+Linha: Função JogadaUsuario(tabuleiro) (chamada na linha 19)  
+Explicação: A entrada do usuário é feita dentro da função JogadaUsuario, que usa input() para receber a jogada.
+
+02. Saída:
+Arquivo: JogoDaVelha.py  
+Linha 22: print("Parabéns! Você venceu! \O/")  
+Explicação: Exibe mensagem de vitória ao usuário.
+
+03. Variáveis:
+Arquivo: JogoDaVelha.py  
+Linha 5: msgsInicio = ['Bem-vindo ao Jogo da Velha', 'Você é o \"X\" e o computador é o \"O\".']  
+Explicação: Declara uma lista de strings para mensagens iniciais.
+
+04. Tipos de dados:
+Arquivo: JogoDaVelha.py  
+Linha 6: msgJogador = 'Jogador começa a Jogada'  
+Explicação: Declara uma variável do tipo string.
+
+05. Estruturas de Decisão:
+Arquivo: JogoDaVelha.py  
+Linha 19: if vez == msgJogador:  
+Explicação: Usa if para decidir de quem é a vez.
+
+06. Estruturas de Repetição:
+Arquivo: JogoDaVelha.py  
+Linha 13: while True:  
+Explicação: Usa while para manter o jogo rodando até o fim da partida.
+
+07. Sub-rotinas (Funções):
+Arquivo: JogoDaVelha.py  
+Linha 8: def JogarJogoVelha():  
+Explicação: Define a função principal do jogo.
